@@ -1,1 +1,1 @@
-# KNN-on-Diabetes-Dataset
+# Random-Forest-on-Diabetes-Dataset
